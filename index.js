@@ -2,11 +2,7 @@ function takeANumber(katzDeliLine, name) {
   katzDeliLine.push(`${name}`);
   var line = [];
   var i = 0;
-  while (i < line.length)
-  i; {
-    line.push( 
-  }
-  return line;
+  
 }
 
 function nowServing(katzDeliLine) {
